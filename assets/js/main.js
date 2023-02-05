@@ -270,11 +270,11 @@
   
   $(document).ready(function () {
     // The default language is English
-    var lang = "en-gb";
-    $(".lang").each(function (index, element) {
-      $(this).text(arrLang[lang][$(this).attr("key")]);
-    });
-  });
+  //   var lang = "en-gb";
+  //   $(".lang").each(function (index, element) {
+  //     $(this).text(arrLang[lang][$(this).attr("key")]);
+  //   });
+  // });
   
   // get/set the selected language
   $(".translate").click(function () {
