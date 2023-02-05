@@ -318,7 +318,7 @@
   
   $(document).ready(function () {
     // The default language is English
-    var lang = "en-gb";
+    var lang = "zh-tw";
     $(".lang").each(function (index, element) {
       $(this).text(arrLang[lang][$(this).attr("key")]);
     });
