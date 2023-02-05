@@ -631,8 +631,8 @@ section {
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -86px;
-  margin-left: -89px;
+  margin-top: 16px;
+  margin-left: 19px;
   text-align: center;
 }
 .translate{
