@@ -1,9 +1,3 @@
-/**
- * Template Name: Krane Kombat - v4.7.1
- * Template URL: https://bootstrapmade.com/Krane Kombat-free-bootstrap-html-template-corporate/
- * Author: BootstrapMade.com
- * License: https://bootstrapmade.com/license/
- */
 (function () {
   "use strict";
 
@@ -258,6 +252,39 @@
       clickable: true,
     },
   });
+  /**
+   * Language sect
+   */
+  var arrLang = {
+    "en-gb": {
+      HOME: "Home",
+      ABOUT: "About Us",
+      APPLY: "Apply For Whitelist"
+    },
+    "zh-tw": {
+      HOME: "家",
+      ABOUT: "私たちに関しては",
+      APPLY: "ホワイトリストに申し込む"
+    }
+  };
+  
+  $(document).ready(function () {
+    // The default language is English
+    var lang = "en-gb";
+    $(".lang").each(function (index, element) {
+      $(this).text(arrLang[lang][$(this).attr("key")]);
+    });
+  });
+  
+  // get/set the selected language
+  $(".translate").click(function () {
+    var lang = $(this).attr("id");
+  
+    $(".lang").each(function (index, element) {
+      $(this).text(arrLang[lang][$(this).attr("key")]);
+    });
+  });
+  
 
   /**
    * Animation on scroll
