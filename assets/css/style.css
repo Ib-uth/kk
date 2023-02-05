@@ -711,7 +711,7 @@ a.button {
   width: 120px;
   font-size: 15px;
   color: #fff;
-  border-bottom: 2px solid #18729f;
+  border-bottom: 2px solid #d8414d;
   background: #1c8dc4;
   border-radius: 4px;
   padding: 8px 0;
@@ -722,7 +722,7 @@ a.button {
   position: fixed;
   color: #fff;
   bottom: 15%;
-  font-size: 15px;
+  font-size: 13px;
   margin-left: -425px;
   -webkit-transition: all 1.25s ease;
   -moz-transition: all 1.25s ease;
@@ -745,7 +745,7 @@ a.button {
   display: relative;
   border-top: 55px solid transparent;
   border-bottom: 55px solid transparent;
-  border-left: 55px solid #1c8dc4;
+  border-left: 55px solid #DA4D58;
 }
 
 @media all and (max-width: 900px) {
