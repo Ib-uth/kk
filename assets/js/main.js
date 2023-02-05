@@ -270,7 +270,8 @@
       Ultimately, after the foreign troops withdrew, the Japanese were able to get above their poverty and racial divide, and they went on to create a new empire based on justice and equality for everyone. The people lived happily, unencumbered by outside oppression, for they were all united in their shared hope for a better future. Raijin—the legendary Krane—is to be thanked for everything.`,
       SUB: "Join Our Newsletter",
       LSUB: "Join Us For Important Updates",
-      SUBMIT: "Submit"
+      SUBMIT: "Submit",
+      CC: "&copy; Copyright <strong><span>Krane Kombat</span></strong>. All Rights Reserved"
     },
     "zh-tw": {
       HOME: "家",
@@ -308,7 +309,8 @@
       すべてに感謝すること。`,
       SUB: "ニュースレターに参加する", 
       LSUB: "重要なアップデートにご参加ください",
-      SUBMIT: "購読"
+      SUBMIT: "購読",
+      CC: "&copy; 著作権 <strong><span>クレーン戦闘</span></strong>. 全著作権所有。"
     }
   };
   
