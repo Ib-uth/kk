@@ -271,7 +271,8 @@
       SUB: "Join Our Newsletter",
       LSUB: "Join Us For Important Updates",
       SUBMIT: "Submit",
-      CC: "Copyright. All Rights Reserved"
+      CC: "All Rights Reserved",
+      NAME: "Krane Kombat"
     },
     "zh-tw": {
       HOME: "家",
@@ -310,7 +311,7 @@
       SUB: "ニュースレターに参加する", 
       LSUB: "重要なアップデートにご参加ください",
       SUBMIT: "購読",
-      CC: "著作権  全著作権所有。",
+      CC: "全著作権所有。",
       NAME: "クレーン戦闘"
     }
   };
