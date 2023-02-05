@@ -637,6 +637,10 @@ section {
   color: #fff;
   background-color: #d8414d;
 }
+.translate:hover{
+  background-color: #fff;
+  color: #d8414d;
+}
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
