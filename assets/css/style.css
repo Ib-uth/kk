@@ -618,14 +618,14 @@ section {
   -ms-transform: rotate(-90deg);
   position: absolute;
   right: -10px;
-  font-size: 18px;
-  top: 22px;
+  font-size: 15px;
+  top: 24px;
   color: #876D4D;
   transition: 0.2s ease-out;
 }
 
 .lang-btn:hover .lang-txt {
-  right: -6px;
+  right: -8px;
 }
 
 /*--------------------------------------------------------------
