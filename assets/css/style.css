@@ -627,7 +627,24 @@ section {
 .lang-btn:hover .lang-txt {
   right: -10px;
 }
+.wrapi{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -86px;
+  margin-left: -89px;
+  text-align: center;
+}
+.translate{
 
+color: rgba(30, 22, 54, 0.6);
+  box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
+}
+
+.translate:hover {
+  color: rgba(255, 255, 255, 0.85);
+  box-shadow: rgba(30, 22, 54, 0.7) 0 80px 0px 2px inset;
+}
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
