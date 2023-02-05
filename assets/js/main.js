@@ -269,7 +269,8 @@
       SECONDHALF: `The Foreigners attempted to defraud the winner, Raijin, since they were unwilling to accept their defeat. However, when the Japanese had had enough, they united under the leadership of Raijin and rose up in rebellion against the foreign force. After a brutal battle, they were able to defeat the alien monarch and his troops.
       Ultimately, after the foreign troops withdrew, the Japanese were able to get above their poverty and racial divide, and they went on to create a new empire based on justice and equality for everyone. The people lived happily, unencumbered by outside oppression, for they were all united in their shared hope for a better future. Raijin—the legendary Krane—is to be thanked for everything.`,
       SUB: "Join Our Newsletter",
-      LSUB: "Join Us For Important Updates"
+      LSUB: "Join Us For Important Updates",
+      SUBMIT: "Submit"
     },
     "zh-tw": {
       HOME: "家",
@@ -306,7 +307,8 @@
       伝説のクレイン—は
       すべてに感謝すること。`,
       SUB: "ニュースレターに参加する", 
-      LSUB: "重要なアップデートにご参加ください"
+      LSUB: "重要なアップデートにご参加ください",
+      SUBMIT: "購読"
     }
   };
   
