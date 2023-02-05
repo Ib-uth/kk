@@ -259,12 +259,20 @@
     "en-gb": {
       HOME: "Home",
       ABOUT: "About Us",
-      APPLY: "Apply For Whitelist"
+      APPLY: "Apply For Whitelist",
+      LOGO: "Krane Kombat",
+      LEGEND: "The Legendary Krane",
+      MOTTO: "The Rise Of A New Dawn.", 
+      DIVIDER: "Legendary Crane - Raijin"
     },
     "zh-tw": {
       HOME: "家",
       ABOUT: "私たちに関しては",
-      APPLY: "ホワイトリストに申し込む"
+      APPLY: "ホワイトリストに申し込む",
+      LOGO: "クレーン戦闘",
+      LEGEND: "伝説の鶴",
+      MOTTO: "新しい夜明けの台頭",
+      DIVIDER: "伝説の鶴 - 雷神"
     }
   };
   
