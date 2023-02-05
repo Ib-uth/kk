@@ -592,6 +592,7 @@ section {
 
 .lang-btn {
   position: absolute;
+  position-attachment: fixed;
   width: 45px;
   height: 100px;
   background: #f2c0c4;
