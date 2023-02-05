@@ -715,6 +715,7 @@ a.button {
   background: #1c8dc4;
   border-radius: 4px;
   padding: 8px 0;
+  cursor: pointer;
 }
 
 #plus {
