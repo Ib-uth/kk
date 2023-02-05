@@ -592,7 +592,6 @@ section {
 
 .lang-btn {
   position: absolute;
-  position-attachment: fixed;
   width: 45px;
   height: 100px;
   background: #f2c0c4;
@@ -618,6 +617,7 @@ section {
   -ms-transform: rotate(-90deg);
   position: absolute;
   right: -10px;
+  font-size: 12px;
   top: 22px;
   color: #876D4D;
   transition: 0.2s ease-out;
