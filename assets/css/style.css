@@ -627,6 +627,12 @@ section {
 .lang-btn:hover .lang-txt {
   right: -10px;
 }
+
+.translate{
+  border-radius: 2px;
+  font-size: 0.9em;
+  padding: 6px 12px;
+}
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
