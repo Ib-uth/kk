@@ -590,69 +590,6 @@ section {
   margin-bottom: 0;
 }
 
-/* .lang-btn {
-  position: absolute;
-  position-attachment: fixed;
-  width: 45px;
-  height: 100px;
-  background: #f2c0c4;
-  top: 45%;
-  right: 0;
-  border-left: 2px solid #DA4D58;
-  border-top: 2px solid #DA4D58;
-  border-bottom: 2px solid #DA4D58;
-  box-shadow: 1px 1px 3px #000;
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
-  cursor: pointer;
-  transition: 0.2s ease-out;
-}
-
-.lang-btn:hover {
-  width: 150px;
-}
-
-.lang-txt {
-  transform: rotate(-90deg);
-  -webkit-transform: rotate(-90deg);
-  -ms-transform: rotate(-90deg);
-  position: absolute;
-  right: -10px;
-  font-size: 15px;
-  top: 24px;
-  color: #876D4D;
-  transition: 0.2s ease-out;
-}
-
-.lang-btn:hover .lang-txt {
-  right: -10px;
-}
-
-.translate{
-  border-radius: 2px;
-  font-size: 0.9em;
-  padding: 6px 12px;
-  margin-top: 5px;
-  margin-left: 2px ;
-  color: #fff;
-  background-color: #d8414d;
-}
-.translate:hover{
-  background-color: #fff;
-  color: #d8414d;
-}
-
-
-
-*/
-
-
-#darkBack {
-  width: 100%;
-  height: 100vh;
-  background: rgba(76, 56, 75, .15);
-}
-
 #popUp {
   position: fixed;
   max-width: 350px;
@@ -670,7 +607,7 @@ section {
 #new span {
   background: #fff;
   position: absolute;
-  color: #1c8dc4;
+  color: #d8414d;
   padding: 4px 10px;
   font-size: 16px;
   font-weight: 600;
@@ -712,7 +649,7 @@ a.button {
   font-size: 15px;
   color: #fff;
   border-bottom: 2px solid #d8414d;
-  background: #1c8dc4;
+  background: #DA4D58;
   border-radius: 4px;
   padding: 8px 0;
   cursor: pointer;
