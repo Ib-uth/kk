@@ -263,7 +263,13 @@
       LOGO: "Krane Kombat",
       LEGEND: "The Legendary Krane",
       MOTTO: "The Rise Of A New Dawn.", 
-      DIVIDER: "Legendary Crane - Raijin"
+      DIVIDER: "Legendary Crane - Raijin",
+      FIRSTHALF: `Chaos had spread throughout the land. Following a well-publicized invasion of the Crane clan by a foreign army, which resulted in the destruction of much of the Crane culture, the Japanese were ruled by cruelty and greed, which included the looting of their works of art (or Geijutsu sakuhin) and natural resources, causing ethnic strife and poverty. To give the Cranes an opportunity to regain their sense of pride and nationalism, the foreign army made the decision to pit their troops against the last remaining Japanese survivors in a fighting arena. The Japanese were significantly overwhelmed.
+      The legendary Krane Lord Raijin, a martial arts coach, competed in matches against combatants from the foreign troops that received extensive media coverage. Raijin won after a series of battles in several rounds.`,
+      SECONDHALF: `The Foreigners attempted to defraud the winner, Raijin, since they were unwilling to accept their defeat. However, when the Japanese had had enough, they united under the leadership of Raijin and rose up in rebellion against the foreign force. After a brutal battle, they were able to defeat the alien monarch and his troops.
+      Ultimately, after the foreign troops withdrew, the Japanese were able to get above their poverty and racial divide, and they went on to create a new empire based on justice and equality for everyone. The people lived happily, unencumbered by outside oppression, for they were all united in their shared hope for a better future. Raijin—the legendary Krane—is to be thanked for everything.`,
+      SUB: "Join Our Newsletter",
+      LSUB: "Join Us For Important Updates"
     },
     "zh-tw": {
       HOME: "家",
@@ -272,7 +278,35 @@
       LOGO: "クレーン戦闘",
       LEGEND: "伝説の鶴",
       MOTTO: "新しい夜明けの台頭",
-      DIVIDER: "伝説の鶴 - 雷神"
+      DIVIDER: "伝説の鶴 - 雷神",
+      FIRSTHALF:  `混沌は国中に広がっていた。 よく知られた外国人によるツル一族への侵略に続いて
+      軍隊、どの
+      ツル文化の多くが破壊され、日本人は残酷さと貪欲に支配され、
+      含まれていた
+      彼らの芸術作品（または芸術作品）と天然資源の略奪、民族紛争と
+      貧困。 に
+      クレーンに誇りとナショナリズムの感覚を取り戻す機会を与えるために、外国軍は
+      ピットインの決定
+      彼らの軍隊は、戦闘場で最後に残った日本人の生存者に対して。 日本人は
+      大幅
+      圧倒する。
+      格闘技のコーチである伝説のクレーン ロード ライジンは、
+      外国軍
+      メディアで大々的に取り上げられたこと。 雷神は、数ラウンドの一連の戦いの後に勝ちました。`,
+      SECONDHALF: `フォーリナーズは、敗北を受け入れたくなかったため、勝者であるライジンをだまそうとしました。
+      ただし、
+      日本人は飽き飽きし、雷神の指導の下で団結し、反乱を起こした
+      外国人
+      力。 残忍な戦いの後、彼らはエイリアンの君主と彼の軍隊を打ち負かすことができました.
+      最終的に、外国軍が撤退した後、日本人は貧困から抜け出し、
+      人種差別、そして
+      彼らは正義と万人の平等に基づく新しい帝国を築き上げました。 人々は幸せに暮らし、
+      邪魔されない
+      彼らは皆、より良い未来への共通の希望で団結していたからです。 雷神—
+      伝説のクレイン—は
+      すべてに感謝すること。`,
+      SUB: "ニュースレターに参加する", 
+      LSUB: "重要なアップデートにご参加ください"
     }
   };
   
