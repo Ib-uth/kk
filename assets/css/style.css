@@ -632,6 +632,8 @@ section {
   border-radius: 2px;
   font-size: 0.9em;
   padding: 6px 12px;
+  margin-top: 5px;
+  margin-left: 2px ;
 }
 /*--------------------------------------------------------------
 # Clients
