@@ -593,7 +593,7 @@ section {
 }
 
 #popUp {
-  position: fixed;
+  position: absolute;
   max-width: 350px;
   height: 225px;
   background: rgba(236, 240, 241, 1);
