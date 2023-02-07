@@ -272,7 +272,18 @@
       LSUB: "Join Us For Important Updates",
       SUBMIT: "Submit",
       CC: "All Rights Reserved",
-      NAME: "Krane Kombat"
+      NAME: "Krane Kombat",
+      FAQ: "Frequently Asked Questions",
+      F: "How many kranes will be available to mint? ",
+      FA: "5555",
+      F1: "Will there be more kranes to more kranes to mint in the future?",
+      F1A: "No, the supply stays as it is.",
+      F2: "What blockchain will krane kombat launch on ?",
+      F2A: "Ethereum network.",
+      F3: "Will there be a rarity checker for the nfts ?",
+      F3A: "Yes, it would be made available immediately after selling out.",
+      F4: "Will whitelist spots be over allocated?",
+      F4A: "No, there's no plan for the over-allocation of whitelist spots."
     },
     "zh-tw": {
       HOME: "家",
@@ -312,7 +323,18 @@
       LSUB: "重要なアップデートにご参加ください",
       SUBMIT: "購読",
       CC: "全著作権所有。",
-      NAME: "クレーン戦闘"
+      NAME: "クレーン戦闘",
+      FAQ: "よくある質問",
+      F: "鋳造に使用できるクレーンは何台ですか?",
+      FA: "5555",
+      F1: "将来、造幣するクレーンが増えることはありますか?",
+      F1A: "いいえ、供給はそのままです。",
+      F2: "クレーン戦闘機はどのブロックチェーンで起動しますか?",
+      F2A: "イーサリアムネットワーク。",
+      F3: "NFTのレアリティチェッカーはありますか？",
+      F3A: "はい、売り切れ次第、即納となります。",
+      F4: "ホワイトリストのスポットは過剰に割り当てられますか?",
+      F4A: "いいえ、ホワイトリスト スポットを過剰に割り当てる予定はありません。"
     }
   };
   
