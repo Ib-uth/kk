@@ -604,6 +604,7 @@ section {
   -moz-transition: all 1s ease;
   -o-transition: all 1s ease;
   transition: all 1s ease;
+  z-index: 999;
 }
 
 #new span {
