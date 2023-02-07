@@ -4,29 +4,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #f7f1f1;
-  background-color: #1f1d2b;
+  background-color: #252528;
 }
-body::before {
-  content: "";
-  position: absolute;
-  width: 123px;
-  height: 123px;
-  left: 60%;
-  top: 138px;
-  filter: blur(90px);
-  background-color: #DA4D58;
-}
-body::after {
-  content: "";
-  position: absolute;
-  width: 123px;
-  height: 123px;
-  left: 80%;
-  top: 550px;
-  background-color: #876D4D;
-  filter: blur(80px);
-}
-
 
 
 a {
@@ -569,7 +548,7 @@ section {
 }
 
 .section-bg {
-  background-color: #0e0e0f;
+  background-color: #3e3e42;
 }
 
 .section-title {
@@ -1176,7 +1155,7 @@ a.button {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #f3f5fa;
+  background: #252528;
   text-align: center;
   font-size: 15px;
   color: #444444;
