@@ -4,7 +4,36 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  margin: 0 auto;
+  padding: 0 80px;
+  position: relative;
+  max-width: 1100px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background-color: #1f1d2b;
 }
+body::before {
+  content: "";
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  left: 60%;
+  top: 138px;
+  filter: blur(90px);
+  background-color: #fb37ff;
+}
+body::after {
+  content: "";
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  left: 80%;
+  top: 550px;
+  background-color: #18b2de;
+  filter: blur(80px);
+}
+
+
 
 a {
   color: #DA4D58;
