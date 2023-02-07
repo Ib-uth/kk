@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #f7f1f1;
   background-color: #1f1d2b;
 }
 body::before {
@@ -14,7 +14,7 @@ body::before {
   left: 60%;
   top: 138px;
   filter: blur(90px);
-  background-color: #fb37ff;
+  background-color: #DA4D58;
 }
 body::after {
   content: "";
@@ -23,7 +23,7 @@ body::after {
   height: 123px;
   left: 80%;
   top: 550px;
-  background-color: #18b2de;
+  background-color: #876D4D;
   filter: blur(80px);
 }
 
