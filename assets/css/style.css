@@ -872,7 +872,7 @@ a.button {
 
 .faq .faq-list p {
   margin-bottom: 0;
-  background-color: #3e3e42;
+  /* background-color: #3e3e42; */
   padding: 10px 0 0 0;
 }
 
