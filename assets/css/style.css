@@ -1378,7 +1378,7 @@ img.img-responsive
     overflow: hidden;
     max-width: 390px;
     border-radius: 10px;
-    transform: rotate(-180deg);
+    height: 80vh;
 }
 td + td
 {
