@@ -1493,3 +1493,8 @@ a.button {
   }
 }
 
+@media (max-width: 768px) {
+ .login-box {
+  width: 550px;
+}
+}
