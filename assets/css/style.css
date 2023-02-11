@@ -396,7 +396,7 @@ h6 {
   background-repeat: no-repeat;
   position: relative;
 }
-#whero {
+.whitelist {
   width: 100%;
   background-image: url(../img/krane.jpeg);
   height: 120vh;
@@ -405,7 +405,7 @@ h6 {
   position: relative;
 }
 
-#hero .container , #whero .container{
+#hero .container{
   padding-top: 72px;
 }
 
