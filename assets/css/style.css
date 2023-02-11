@@ -5,6 +5,9 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #f7f1f1;
   background-color: #252528;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 
@@ -392,14 +395,6 @@ h6 {
   width: 100%;
   background-image: url(../img/Bamboooo.JPG);
   height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  position: relative;
-}
-.whitelist {
-  width: 100%;
-  background-image: url(../img/krane.jpeg);
-  height: 120vh;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
