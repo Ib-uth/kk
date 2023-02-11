@@ -1338,6 +1338,7 @@ a.button {
   top: 50%;
   left: 50%;
   width: 650px;
+  height: 70vh;
   padding: 40px;
   transform: translate(-50%, -50%);
   background: rgba(0,0,0,.5);
