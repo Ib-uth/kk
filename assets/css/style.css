@@ -1337,8 +1337,9 @@ a.button {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 650px;
-  height: 70vh;
+  width: 850px;
+  margin-top: 12em;
+  margin-bottom: 12em;
   padding: 40px;
   transform: translate(-50%, -50%);
   background: rgba(0,0,0,.5);
