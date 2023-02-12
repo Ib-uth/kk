@@ -1536,7 +1536,7 @@ input:focus ~ .highlight {
 }
 
 @media (max-width: 768px) {
- .login-box {
+ .form {
   width: 400px;
 }
 }
