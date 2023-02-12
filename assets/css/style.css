@@ -1482,11 +1482,11 @@ input:focus ~ .highlight {
 /* Button modifiers */
 
 .buttonBlue {
-  background: #4a89dc;
-  text-shadow: 1px 1px 0 rgba(39, 110, 204, .5);
+  background: #be2733;
+  text-shadow: 1px 1px 0 rgba(204, 105, 39, 0.5);
 }
 
-.buttonBlue:hover { background: #357bd8; }
+.buttonBlue:hover { background: #ed3c0d; }
 
 
 /* Ripples container */
