@@ -1539,8 +1539,7 @@ input:focus ~ .highlight {
  form {
   width: 300px;
 }
-label {
+.upp, label {
 	font-size: 14px;
-  margin-bottom: 400em;
 }
 }
