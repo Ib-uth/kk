@@ -1377,7 +1377,7 @@ input:focus { outline: none; }
 
 /* Label */
 
-label {
+.upp, label {
 	color: #be2733; 
 	font-size: 18px;
 	font-weight: normal;
@@ -1395,7 +1395,7 @@ input:focus ~ label, input.used ~ label {
 	top: -20px;
   transform: scale(.75); left: -2px;
 	/* font-size: 14px; */
-	color: #4a89dc;
+	color: #d8414d;
 }
 
 
@@ -1413,7 +1413,7 @@ input:focus ~ label, input.used ~ label {
 	width: 0;
 	bottom: 1px; 
 	position: absolute;
-	background: #4a89dc; 
+	background: #d8414d; 
 	transition: all 0.2s ease;
 }
 
@@ -1450,7 +1450,7 @@ input:focus ~ .highlight {
 /* Animations */
 
 @keyframes inputHighlighter {
-	from { background: #4a89dc; }
+	from { background: #d8414d; }
 	to 	{ width: 0; background: transparent; }
 }
 
@@ -1472,7 +1472,7 @@ input:focus ~ .highlight {
   letter-spacing: 1px;
   background: transparent;
   border: 0;
-  border-bottom: 2px solid #3160B6;
+  border-bottom: 2px solid #be2733;
   cursor: pointer;
   transition: all 0.15s ease;
 }
