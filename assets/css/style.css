@@ -1384,7 +1384,7 @@ input:focus { outline: none; }
 	position: absolute;
 	pointer-events: none;
 	left: 5px;
-	top: 10px;
+	top: 40px;
 	transition: all 0.2s ease;
 }
 
