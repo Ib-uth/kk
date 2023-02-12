@@ -1378,7 +1378,7 @@ input:focus { outline: none; }
 /* Label */
 
 label {
-	color: #999; 
+	color: #be2733; 
 	font-size: 18px;
 	font-weight: normal;
 	position: absolute;
@@ -1538,5 +1538,8 @@ input:focus ~ .highlight {
 @media (max-width: 768px) {
  form {
   width: 300px;
+}
+label {
+	font-size: 14px;
 }
 }
