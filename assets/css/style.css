@@ -1537,6 +1537,6 @@ input:focus ~ .highlight {
 
 @media (max-width: 768px) {
  form {
-  width: 250px;
+  width: 300px;
 }
 }
