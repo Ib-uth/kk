@@ -1539,7 +1539,7 @@ input:focus ~ .highlight {
  form {
   width: 300px;
 }
-.upp, label {
+.upp, .uploads, label {
 	font-size: 14px;
 }
 }
