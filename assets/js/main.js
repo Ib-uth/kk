@@ -283,7 +283,8 @@
       F3: "Will there be a rarity checker for the nfts ?",
       F3A: "Yes, it would be made available immediately after selling out.",
       F4: "Will whitelist spots be over allocated?",
-      F4A: "No, there's no plan for the over-allocation of whitelist spots."
+      F4A: "No, there's no plan for the over-allocation of whitelist spots.",
+      TWEET: "Tweet for Whitelist"
     },
     "zh-tw": {
       HOME: "家",
@@ -334,7 +335,8 @@
       F3: "NFTのレアリティチェッカーはありますか？",
       F3A: "はい、売り切れ次第、即納となります。",
       F4: "ホワイトリストのスポットは過剰に割り当てられますか?",
-      F4A: "いいえ、ホワイトリスト スポットを過剰に割り当てる予定はありません。"
+      F4A: "いいえ、ホワイトリスト スポットを過剰に割り当てる予定はありません。",
+      TWEET: "ホワイトリストのツイート"
     }
   };
   
