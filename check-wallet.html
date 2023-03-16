@@ -66,14 +66,13 @@
     <div class="container d-flex align-items-center">
 
       <h1 class="logo me-auto"><a href="index.html" class="lang" key="LOGO"></a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
+    
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto lang" href="index.html#hero" key="HOME"></a></li>
+          <li><a class="nav-link scrollto lang active" href="#" key="WALLET"></a></li>
      
-          <li><a class="getstarted scrollto lang active" href="#" key="APPLY"></a></li>
+          <li><a class="getstarted scrollto lang " href="whitelist.html" key="APPLY"></a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -90,17 +89,13 @@
   </hgroup>
   <form>
     <div class="group">
-      <input type="text" name="Twitter_Id" required><span class="highlight"></span><span class="bar"></span>
+      <input id="walletAddress" type="text" name="Twitter_Id" required><span class="highlight"></span><span class="bar"></span>
       <label>ウォレットアドレス / Wallet Address</label><br>
     </div>
     
 
     </div>
-    <button type="submit" id="mainBtn" class="button buttonBlue">Submit
-      <!-- <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="" data-text=" I just applied for whitelist on kranekombat, you should too!" data-url="https://kranekombat.com/" data-via="KraneKombat_NFT" data-hashtags="kranekombat" data-lang="en" data-show-count="false"><span></span>
-      </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-      <div class="ripples buttonRipples"><span class="ripplesCircle"></span></div>
-    </button>
+    <button type="button" class="button buttonBlue" onclick="checkWal()">Submit</button>
     <div id="check"></div>
 
   </form>
@@ -140,19 +135,8 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/checkwallet.js"></script>
   <script src="assets/js/lang-pop.js"></script>
-  <!-- <script>
-    document.getElementById("mainBtn").addEventListener("click", redirectFunction);
-    
-    function redirectFunction(){
-        window.location.href = "https://twitter.com/share?ref_src=twsrc%5Etfw";
-        // You can also use window.location.replace method
-        
-        /*
-         * window.location.replace("https://www.example.com");
-         */
-    }
-</script> -->
 
 </body>
 

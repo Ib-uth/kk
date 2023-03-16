@@ -284,7 +284,8 @@
       F3A: "Yes, it would be made available immediately after selling out.",
       F4: "Will whitelist spots be over allocated?",
       F4A: "No, there's no plan for the over-allocation of whitelist spots.",
-      TWEET: "Tweet for Whitelist"
+      TWEET: "Tweet for Whitelist",
+      WALLET:"Check Wallet"
     },
     "zh-tw": {
       HOME: "家",
@@ -336,7 +337,8 @@
       F3A: "はい、売り切れ次第、即納となります。",
       F4: "ホワイトリストのスポットは過剰に割り当てられますか?",
       F4A: "いいえ、ホワイトリスト スポットを過剰に割り当てる予定はありません。",
-      TWEET: "ホワイトリストのツイート"
+      TWEET: "ホワイトリストのツイート",
+      WALLET: "小切手ウォレット"
     }
   };
   
